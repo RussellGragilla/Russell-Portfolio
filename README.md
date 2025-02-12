@@ -8,3 +8,4 @@ There is also an xlsx (Excel) file in this repository, which loads up a dashboar
 There is a PDF file located in this repository that demonstrates a PowerPoint presentation that went along with this Excel file. The PowerPoint file was too large to upload.
 There is a SQL script that was used to bring all of this Fortune 500 data together located here as well. All of this SQL was coded with Microsoft SQL Server Management Studio.
 There is a an IPYNB filed that breaks down the Fortune 500 into several different visualizations to examine using python.
+Finally, there is a Power BI file, that presents a interactive dashboard with the Fortune 500 data.
